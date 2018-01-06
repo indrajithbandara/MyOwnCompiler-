@@ -1,87 +1,85 @@
 #include "cradle.h"
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+char tmp[MAX_BUF];
+char Look;
 
-void GetChar() 
+void  Getchar(void)
 {
-Look = getchar();
+  Getchar = Look;
+  return Getchar;
 }
+
+
 void Error(char *s)
 {
-printf("\nError: %s.", s);
-}
-void Abort(char *s)
-{
-Error(s);
-exit(1);
+  printf("\nError: %s.", s);
 }
 
+void Abort(char *s)
+{
+  Error(s);
+  exit(1);
+}
 void Expected(char *s)
 {
-sprintf(tmp, "%s Expected", s);
-Abort(tmp);
+  sprintf(tmp, "%s Expected", s);
+  Abort(tmp);
 }
+
 
 void Match(char x)
 {
-if(Look == x) {
-GetChar();
-} else {
-sprintf(tmp, "'%c'",x);
-Expected(tmp);
+  if (Look == x)
+  {
+    Getchar();
+  }
+  else
+  {
+    sprintf(tmp, "'%c'", x);
+    Expected(tmp);
+  }
 }
-}
-int isAlpha(char c) 
+
+char GetName()
 {
-return (UPCASE(c) >= 'A') && (UPCASE(c) <= 'Z');
+  char c = Look;
+  if (!isalpha(Look))
+  {
+    sprintf(tmp, "Name");
+    Expected(tmp);
+  }
+
+  Getchar();
+  return toupper(c);
 }
 
-int isDigit(char c)
+char GetNum()
 {
-return (c >= '0') && (c <= '9'); 
+  char c = Look;
+  if (!isdigit(Look))
+  {
+    sprintf(tmp, "Integer");
+    Expected(tmp);
+  }
+  GetChar();
+
+  return c;
 }
-
-char GetName() 
-{
-char c = Look;
-if( !isAlpha(Look)) {
-sprintf(tmp, "Name");
-Expected(tmp);
-}
-
-GetChar();
-
-return UPCASE(c);
-}
-
-char GetNum() 
-{
-char c = Look;
-if( !isDigit(Look)) {
-sprintf(tmp, "Integer");
-Expected(tmp);
-
-}
-
-GetChar();
-
-return c;
-}
-
 void Emit(char *s)
 {
-printf("\t%s",s);
+  printf("\t%s", s);
 }
 
-void EmitL(char *s)
+void EmitLn(char *s)
 {
-Emit(s);
-printf("\n");
+  Emit(s);
+  printf("\n");
 }
 
-void Init() 
+void Init()
 {
-GetChar();
+  Getchar();
 }
 
 
