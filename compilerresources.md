@@ -31,8 +31,17 @@
 
 14<http://www.coders-hub.com/2013/05/c-code-for-lexical-analysis.html#.WmegwhYfPeQ>
 
+15<https://stackoverflow.com/questions/38343706/lexical-analyzer-c-program-for-identifying-tokens>
 
+16.
 
+17.
+
+18.
+
+19.
+
+====================================================================================================================
 <img src="https://1.bp.blogspot.com/-BmT3MCbTUfw/V2f0Zu9VsyI/AAAAAAAAFuI/FoBiF336ZmwHL6mZYqWB0j8dpkH_jYaVACLcB/s640/6c4385fbe3d8471982c9b2a030106d38.png" alt="diagrama" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xxx_Scanner_and_parser_example_for_C.gif" alt="exemplo" />
