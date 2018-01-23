@@ -1,8 +1,8 @@
 # Resources about compiler creation
 <p> Those are the resources I found </p>
 
-<a href="https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/2.5.html"/a>
+[acm.illinois]("https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/2.5.html")
 
-<a href="http://scratch-lang.notimetoplay.org/scratch-lang.js"/a>
+[scratch-lang]("http://scratch-lang.notimetoplay.org/scratch-lang.js")
 
-<a href="https://github.com/Wilfred/babyc/blob/master/main.c"/a>
+[babyc]("https://github.com/Wilfred/babyc/blob/master/main.c")
