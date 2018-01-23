@@ -49,7 +49,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xxx_Scanner_and_parser_example_for_C.gif" alt="exemplo" />
 
 
-
+====================================================================================================================
 
 
 
