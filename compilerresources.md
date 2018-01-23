@@ -1,4 +1,4 @@
-# Resources about compiler creation
+# Resources about compiler creation  and progg
 <p> Those are the resources I found </p>
 
 1.<https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/2.5.html>
@@ -28,6 +28,8 @@
 12.<https://cs.nyu.edu/courses/Fall12/CSCI-GA.2130.../lecture4.pdf>
 
 13.<https://www2.cs.arizona.edu/~collberg/Teaching/.../Handout-3.pd...>
+
+14<http://www.coders-hub.com/2013/05/c-code-for-lexical-analysis.html#.WmegwhYfPeQ>
 
 
 
