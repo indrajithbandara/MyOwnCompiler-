@@ -35,7 +35,7 @@
 
 16.<https://www.programming9.com/programs/c-programs/114-c-program-to-design-lexical-analyzer>
 
-17.
+17.<nptel.ac.in/courses/106108113/module2/Lecture4.pdf>
 
 18.
 
