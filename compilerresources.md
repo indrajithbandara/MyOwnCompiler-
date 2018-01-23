@@ -27,6 +27,8 @@
 
 12.<https://cs.nyu.edu/courses/Fall12/CSCI-GA.2130.../lecture4.pdf>
 
+13.<https://www2.cs.arizona.edu/~collberg/Teaching/.../Handout-3.pd...>
+
 
 
 <img src="https://1.bp.blogspot.com/-BmT3MCbTUfw/V2f0Zu9VsyI/AAAAAAAAFuI/FoBiF336ZmwHL6mZYqWB0j8dpkH_jYaVACLcB/s640/6c4385fbe3d8471982c9b2a030106d38.png" alt="diagrama" />
