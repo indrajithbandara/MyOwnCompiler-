@@ -35,11 +35,11 @@
 
 16.<https://www.programming9.com/programs/c-programs/114-c-program-to-design-lexical-analyzer>
 
-17.<nptel.ac.in/courses/106108113/module2/Lecture4.pdf>
+17.<https://cs.nyu.edu/courses/fall04/G22.2130-001/lex.ppt>
 
-18.
+18.<http://stlab.cc/legacy/how-to-write-a-simple-lexical-analyzer-or-parser.html>
 
-19.
+19.<http://www.cs.fsu.edu/~engelen/cscan.html>
 
 ====================================================================================================================
 <img src="https://1.bp.blogspot.com/-BmT3MCbTUfw/V2f0Zu9VsyI/AAAAAAAAFuI/FoBiF336ZmwHL6mZYqWB0j8dpkH_jYaVACLcB/s640/6c4385fbe3d8471982c9b2a030106d38.png" alt="diagrama" />
