@@ -60,18 +60,10 @@
 - [ ]  "Compiler Design in C", by A. C. Holub. 
 
 - [ ] "Crafting a Compiler", by C. Fischer and R. LeBlanc. 
- 
-- [ ] "The Byte Book of Pascal", edited by Blaise W. Liffick. 
-
-- [ ] "Threaded Interpretive Languages", by R. G. Loeliger. 
 
 - [ ] "Compiler Construction: Principles and Practice", by Kenneth C. Louden. 
 
 - [ ] "The Art of Compiler Design: Theory and Practice", by Thomas Pittman & James Peters. 
-
-- [ ] "What Computing is All About", by Jan L.A. van de Snepscheut. 
-
-- [ ] "Compiling with C# and Java", by Pat Terry. 
 
 - [ ] "Programming Language Processors", by David A. Watt. 
 
