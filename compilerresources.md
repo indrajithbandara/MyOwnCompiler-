@@ -43,6 +43,8 @@
 
 20.<http://www.semware.com/html/01-lex.html>
 
+21.<https://www.stanford.edu/.../040%20Lexical%20Analysis.pdf>
+
 ====================================================================================================================
 <img src="https://1.bp.blogspot.com/-BmT3MCbTUfw/V2f0Zu9VsyI/AAAAAAAAFuI/FoBiF336ZmwHL6mZYqWB0j8dpkH_jYaVACLcB/s640/6c4385fbe3d8471982c9b2a030106d38.png" alt="diagrama" />
 
