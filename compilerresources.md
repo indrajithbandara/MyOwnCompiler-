@@ -55,13 +55,13 @@
 
 # References
 
-- [  ] "Compilers: Principles, Techniques, and Tools" by Alfred Aho, Ravi Sethi, and Jeffrey Ullman. 
+- [ ] "Compilers: Principles, Techniques, and Tools" by Alfred Aho, Ravi Sethi, and Jeffrey Ullman. 
 
-- [  ]  "Compiler Design in C", by A. C. Holub. 
+- [ ]  "Compiler Design in C", by A. C. Holub. 
 
-- [  ] "Crafting a Compiler", by C. Fischer and R. LeBlanc. 
+- [ ] "Crafting a Compiler", by C. Fischer and R. LeBlanc. 
  
-- [  ] "The Byte Book of Pascal", edited by Blaise W. Liffick. 
+- [ ] "The Byte Book of Pascal", edited by Blaise W. Liffick. 
 
 - [ ] "Threaded Interpretive Languages", by R. G. Loeliger. 
 
