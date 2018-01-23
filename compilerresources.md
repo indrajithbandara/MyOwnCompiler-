@@ -16,16 +16,16 @@
 7.<https://pt.stackoverflow.com/questions/48231/como-funciona-a-c99-em-rela%C3%A7%C3%A3o-%C3%A0-c90-para-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-no-meio-do-c%C3%B3d>
 
 
-8.
+8.<https://stackoverflow.com/questions/2842809/lexers-vs-parsers>
 
-9.
+9.<>
 
-10.
+10.<>
 
-11.
+11.<>
 
 
-12.
+12.<>
 
 
 
