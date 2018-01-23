@@ -13,7 +13,8 @@
 
 6.<https://stackoverflow.com/questions/334479/repository-of-bnf-grammars?rq=1>
 
-7.
+7.<https://pt.stackoverflow.com/questions/48231/como-funciona-a-c99-em-rela%C3%A7%C3%A3o-%C3%A0-c90-para-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-no-meio-do-c%C3%B3d>
+
 
 8.
 
@@ -25,3 +26,7 @@
 
 
 12.
+
+
+
+<img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjTvZ6D9-7YAhVCI5AKHfoiACQQjRwIBw&url=http%3A%2F%2Fblog.ptsecurity.com%2F2016%2F06%2Ftheory-and-practice-of-source-code.html&psig=AOvVaw1Vysiqf8eGQoNW2irCT8TZ&ust=1516825906251156" alt="diagrama" />
