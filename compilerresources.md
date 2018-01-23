@@ -22,10 +22,10 @@
 
 10.<http://www.cse.chalmers.se/edu/year/2011/course/TIN321/lectures/bnfc-tutorial.html>
 
-11.<>
+11.<https://www.univ-orleans.fr/lifo/Members/.../l3-0708-LexA.pdf>
 
 
-12.<>
+12.<https://cs.nyu.edu/courses/Fall12/CSCI-GA.2130.../lecture4.pdf>
 
 
 
