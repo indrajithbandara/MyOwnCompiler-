@@ -29,11 +29,11 @@
 
 13.<https://www2.cs.arizona.edu/~collberg/Teaching/.../Handout-3.pd...>
 
-14<http://www.coders-hub.com/2013/05/c-code-for-lexical-analysis.html#.WmegwhYfPeQ>
+14.<http://www.coders-hub.com/2013/05/c-code-for-lexical-analysis.html#.WmegwhYfPeQ>
 
-15<https://stackoverflow.com/questions/38343706/lexical-analyzer-c-program-for-identifying-tokens>
+15.<https://stackoverflow.com/questions/38343706/lexical-analyzer-c-program-for-identifying-tokens>
 
-16.
+16.<https://www.programming9.com/programs/c-programs/114-c-program-to-design-lexical-analyzer>
 
 17.
 
